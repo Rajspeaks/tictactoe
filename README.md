@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-TIC-TAC-TOE is popular fun game, we all played in our childhood days. A simple HTML,CSS &amp; JS made game.
+TIC-TAC-TOE is popular fun game, we all played in our childhood days. This is a 2 players game.
 
 ## TOOLS:
 - HTML
